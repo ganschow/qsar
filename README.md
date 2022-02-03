@@ -14,6 +14,6 @@ A QSAR analysis investigating the bioactivity of compounds targeting the aryl hy
 
 Bayer is targeting what appears to be a key player in orchestrating immune escape: the **aryl hydrocarbon receptor (AhR)**: “More and more research suggests that the AhR, once activated, triggers events that suppress immune responses and promote tumor progression. The AhR appears to be a central mediator in the whole process, so inhibiting it may reactivate immune responses and provide a new therapeutic strategy for patients with cancer."
 
-![AhR pathway](https://www.bayer.com/sites/default/files/styles/16_9_aspect_ratio/public/2021-09/Bayer-Ahr-Rezeptor_EN_01_0.png)
+![AhR pathway](img/Bayer-Ahr-Rezeptor_EN_01_0.jpeg)
 
 Source: https://www.bayer.com/en/pharma/targeting-ahr-promising-new-approach-cancer-immunotherapy
