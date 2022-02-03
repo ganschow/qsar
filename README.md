@@ -2,6 +2,8 @@
 
 A QSAR analysis investigating the bioactivity of compounds targeting the aryl hydrocarbon receptor (AhR). The structural features of compounds are correlated with their biological activities. A predicitive machine learning model is built based on molecular fingerprint descriptors.
 
+![Open Jupyter Notebook](QSAR%20-%20Quantitative%20Structure-Activity%20Relationship.ipynb)
+
 ## Workflow
 
 1. Collect dataset from chEMBL about biological activity of AhR: compounds that have been biologically tested for their activity towards the target
